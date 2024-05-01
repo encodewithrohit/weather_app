@@ -1,0 +1,1 @@
+This is basic weather app application built over html, python. With the help of API we fetched the weather conditions across the world. User can enter the region they want to check the weather and the app will provide enough weather stats of the particular region.
